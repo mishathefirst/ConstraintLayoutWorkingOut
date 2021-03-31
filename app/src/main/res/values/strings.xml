@@ -2,4 +2,8 @@
     <string name="app_name">ConstraintLayoutWorkingOut</string>
     <string name="title1">Shanghai</string>
     <string name="poster_description">top poster</string>
+    <string name="released">Released</string>
+    <string name="date">01-05-20</string>
+    <string name="button_text">VERSION TRAILER</string>
+    <string name="overview_title">Overview</string>
 </resources>
