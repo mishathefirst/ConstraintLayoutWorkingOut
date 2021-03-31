@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConstraintLayoutWorkingOut</string>
+    <string name="title1">Shanghai</string>
+    <string name="poster_description">top poster</string>
 </resources>
